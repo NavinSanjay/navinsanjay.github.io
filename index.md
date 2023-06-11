@@ -6,33 +6,18 @@
 
 [Predicting Traffic Volume in New Zealand with Machine Learning](/pdf/Predicting-Traffic-Volume-using-Machine-Learning.pdf)
 <br>
-<html>
-<head>
-  <style>
-    .center {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-  </style>
-</head>
-<body>
-  <div class="center">
-    <img src="images/traffic_flow.png" alt="Traffic Flow" width="250">
-  </div>
-</body>
-</html>
+<img src="images/traffic_flow.png" alt="Traffic Flow" width="250">
 <img src="images/summary_stats_trafficvol.png?raw=true"/>
 
 ---
 [News Headline Sentiment Analysis](/pdf/Sentiment-Analysis-of-News-Article-Headlines-for-Stock-Market-Prediction-1.pdf)
-<img src = "images/stock_sent.png?raw=true"/>
+<br>
+<img src = "images/stock_sent.png" width = "250"/>
 <img src="images/summary_stats_stock.png?raw=true"/>
 
 ---
 [UFC Outcome Prediction using Machine Learning](/pdf/Predicting the outcome of a UFC fight.pdf)
-<img src = "images/ufc_fight.PNG?raw=true"/>
+<img src = "images/ufc_fight.PNG" width = "250"/>
 <img src="images/summary_stats_ufc.png?raw=true"/>
 
 ---
