@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[UFC Outcome Prediction using Machine Learning](/pdf/Predicting the outcome of a UFC fight.pptx)
+[UFC Outcome Prediction using Machine Learning](/pdf/Predicting the outcome of a UFC fight.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
