@@ -17,6 +17,7 @@
 
 ---
 [UFC Outcome Prediction using Machine Learning](/pdf/Predicting the outcome of a UFC fight.pdf)
+<br>
 <img src = "images/ufc_fight.PNG" width = "250"/>
 <img src="images/summary_stats_ufc.png?raw=true"/>
 
