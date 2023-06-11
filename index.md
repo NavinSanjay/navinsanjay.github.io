@@ -5,19 +5,19 @@
 ### Data Science Projects
 
 [Predicting Traffic Volume in New Zealand with Machine Learning](/pdf/Predicting-Traffic-Volume-using-Machine-Learning.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/summary_stats_trafficvol.png?raw=true"/>
 
 ---
 [News Headline Sentiment Analysis](/pdf/Sentiment-Analysis-of-News-Article-Headlines-for-Stock-Market-Prediction-1.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/summary_stats_stock.png?raw=true"/>
 
 ---
 [UFC Outcome Prediction using Machine Learning](/pdf/Predicting the outcome of a UFC fight.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/summary_stats_ufc.png?raw=true"/>
 
 ---
 [Movie Recommendation System](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
