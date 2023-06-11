@@ -6,9 +6,23 @@
 
 [Predicting Traffic Volume in New Zealand with Machine Learning](/pdf/Predicting-Traffic-Volume-using-Machine-Learning.pdf)
 <br>
-<div style="text-align: center;">
-  <img src="images/traffic_flow.png" alt="Traffic Flow" width="250">
-</div>
+<html>
+<head>
+  <style>
+    .center {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+  <div class="center">
+    <img src="images/traffic_flow.png" alt="Traffic Flow" width="250">
+  </div>
+</body>
+</html>
 <img src="images/summary_stats_trafficvol.png?raw=true"/>
 
 ---
