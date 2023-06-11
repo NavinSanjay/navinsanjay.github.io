@@ -2,27 +2,31 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects
 
-[Project 1 Title](/sample_page)
+[Predicting Traffic Volume in New Zealand with Machine Learning](/pdf/Predicting-Traffic-Volume-using-Machine-Learning.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[News Headline Sentiment Analysis](/pdf/Sentiment-Analysis-of-News-Article-Headlines-for-Stock-Market-Prediction-1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[UFC Outcome Prediction using Machine Learning](/pdf/Predicting the outcome of a UFC fight.pptx)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Movie Recommendation System](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Predicting Traffic Volume in New Zealand with Machine Learning](http://example.com/)
+- [News Headline Sentiment Analysis](http://example.com/)
+- [UFC Outcome Prediction using Machine Learning](http://example.com/)
+- [Movie Recommendation System](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
