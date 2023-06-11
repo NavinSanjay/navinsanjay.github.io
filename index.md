@@ -13,7 +13,7 @@
 ---
 [News Headline Sentiment Analysis](/pdf/Sentiment-Analysis-of-News-Article-Headlines-for-Stock-Market-Prediction-1.pdf)
 <br>
-<img src = "images/stock_sent.png" width = "250"/>
+<img src = "images/stock_sent.png" width = "250" height = "250"/>
 <br>
 <img src="images/summary_stats_stock.png?raw=true"/>
 
