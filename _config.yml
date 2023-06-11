@@ -1,11 +1,15 @@
-title: John Doe # your name (or website title) here
+title: Navin Sanjay # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+Innovative. Creative. Methodical. Analytical. Experienced as a Product Development Engineer, my
+passion for data drives me to seek a career as a Data Anaylst. A recent graduate of a AUT
+industry accredited Certificate in Data Science/AI, which involves hands-on technical skills and
+exposure to current AI and DS practice. My experiences have allowed me to develop excellent
+interpersonal skills with a high work ethic, time management and task prioritisation skills.
   <br><br>
-  Second description 
+  Data Enthusiast Seeking Data Analyst Position | Proficient in Data Analytics Tools and Techniques | AUT Data Science/AI Certificate Candidate | Open to Opportunities.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/navin-sanjay/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
