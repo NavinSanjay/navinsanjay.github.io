@@ -5,6 +5,7 @@
 ### Data Science Projects
 
 [Predicting Traffic Volume in New Zealand with Machine Learning](/pdf/Predicting-Traffic-Volume-using-Machine-Learning.pdf)
+<br>
 <img src = "images/traffic_flow.png?raw=true"/>
 <img src="images/summary_stats_trafficvol.png?raw=true"/>
 
