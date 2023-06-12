@@ -31,8 +31,6 @@
 
 ---
 
-### Category Name 2
-
 - [Predicting Traffic Volume in New Zealand with Machine Learning](https://github.com/NavinSanjay/TrafficVolumePrediction)
 - [News Headline Sentiment Analysis](https://github.com/NavinSanjay/NewsHeadlineSentimentAnalysis)
 - [UFC Outcome Prediction using Machine Learning](https://github.com/NavinSanjay/UFCFightOutcomePrediction)
