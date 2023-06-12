@@ -27,7 +27,7 @@
 ---
 [Movie Recommendation System](https://github.com/NavinSanjay/MovieRecommendationSystem)
 <br>
-<img src="images/movie_rec.png?raw=true"/>
+<img src="images/movie_rec.PNG?raw=true"/>
 
 ---
 
