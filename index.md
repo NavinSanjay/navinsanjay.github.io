@@ -25,18 +25,18 @@
 <img src="images/summary_stats_ufc.png?raw=true"/>
 
 ---
-[Movie Recommendation System](http://example.com/)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+[Movie Recommendation System](https://github.com/NavinSanjay/MovieRecommendationSystem)
+<br>
+<img src="images/movie_rec.png?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Predicting Traffic Volume in New Zealand with Machine Learning](http://example.com/)
-- [News Headline Sentiment Analysis](http://example.com/)
-- [UFC Outcome Prediction using Machine Learning](http://example.com/)
-- [Movie Recommendation System](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Predicting Traffic Volume in New Zealand with Machine Learning](https://github.com/NavinSanjay/TrafficVolumePrediction)
+- [News Headline Sentiment Analysis](https://github.com/NavinSanjay/NewsHeadlineSentimentAnalysis)
+- [UFC Outcome Prediction using Machine Learning](https://github.com/NavinSanjay/UFCFightOutcomePrediction)
+- [Movie Recommendation System](https://github.com/NavinSanjay/MovieRecommendationSystem)
 
 ---
 
