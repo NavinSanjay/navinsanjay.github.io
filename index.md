@@ -25,7 +25,7 @@
 <img src="images/summary_stats_ufc.png?raw=true"/>
 
 ---
-[Movie Recommendation System](https://github.com/NavinSanjay/MovieRecommendationSystem)
+[Movie Recommendation System](https://github.com/NavinSanjay/MovieRecommendationSystem/blob/main/movie_recommendation_clean.ipynb)
 <br>
 <img src="images/movie_rec.PNG?raw=true"/>
 
