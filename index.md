@@ -40,8 +40,8 @@ This allows for additional input over the traditional numeric comparisons. News 
 <img src = "images/ufc_fight.PNG" width = "250"/>
 <br>
 Predictive modelling was used to find the likelihood of a fighter winning by KO/Submission or by Judge Decision.
-• Betting agencies can adjust their odds accordingly
-• Individuals can use this information when betting
+• Betting agencies can adjust their odds accordingly.
+• Individuals can use this information when betting.
 Data was taken from the last 10 years of the Lightweight category and assessed to predict the likelihood of a match resulting in a KO/Submission or Judge Decision.
 <br>
 <img src="images/summary_stats_ufc.png?raw=true"/>
