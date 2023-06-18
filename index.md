@@ -4,11 +4,19 @@
 
 ### Data Science Projects
 
-[Predicting Traffic Volume in New Zealand with Machine Learning](/pdf/Predicting-Traffic-Volume-using-Machine-Learning.pdf)
+[Predicting Traffic Volume in New Zealand with Machine Learning](https://github.com/NavinSanjay/TrafficVolumePrediction/blob/main/Predicting%20Traffic%20Volume%20using%20Machine%20Learning_Navin%20Sanjay.pdf)
 <br>
 <img src="images/traffic_flow.png" alt="Traffic Flow" width="250">
 <br>
+This project aims to develop a predictive model for accurately forecasting traffic volume at a specific location and time. Historical traffic data and relevant features like date, time, day of the week, month, and weather conditions are utilized. Machine learning techniques are employed to capture patterns and trends in the data, enabling accurate predictions of future traffic volumes. The best-performing model is the random forest regression, which outperformed other models in all evaluation metrics. However, predicting traffic volume in 2018 proved challenging due to irregular data, highlighting the need for further improvements in data consistency and comparability.
 <img src="images/summary_stats_trafficvol.png?raw=true"/>
+
+---
+[Movie Recommendation System](https://github.com/NavinSanjay/MovieRecommendationSystem/blob/main/movie_recommendation_clean.ipynb)
+<br>
+<img src="images/movie_rec.PNG?raw=true"/>
+
+---
 
 ---
 [Sentiment Analysis of News Article Headlines for Stock Market Prediction](/pdf/Sentiment-Analysis-of-News-Article-Headlines-for-Stock-Market-Prediction-1.pdf)
@@ -23,11 +31,6 @@
 <img src = "images/ufc_fight.PNG" width = "250"/>
 <br>
 <img src="images/summary_stats_ufc.png?raw=true"/>
-
----
-[Movie Recommendation System](https://github.com/NavinSanjay/MovieRecommendationSystem/blob/main/movie_recommendation_clean.ipynb)
-<br>
-<img src="images/movie_rec.PNG?raw=true"/>
 
 ---
 
