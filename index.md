@@ -18,11 +18,14 @@ This project aims to develop a predictive model for accurately forecasting traff
 [Quantium Data Analytics](https://github.com/NavinSanjay/QuantiumDataAnalytics)
 <br>
 A virtual data analytic internship with Quantium through Forage. As part of the Quantium retail analytics team, the goal of this project is to evaluate and analyse the performance of change and recommend whether it has been successful. We will be looking at the Chips Category for retail stores across 1 year. 
+
 <br>
-Customer Insights:
+<br>
+**Customer Insights:**
 <img src="images/1_purchasing_insights_summary.gif?raw=true"/>
 <br>
-Trial Store Assesment:
+<br>
+**Trial Store Assesment:**
 <img src="images/2_trial_control_store_summary.gif?raw=true"/>
 <br>
 
